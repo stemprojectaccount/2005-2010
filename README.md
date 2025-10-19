@@ -789,35 +789,35 @@
                 </h2>
                 
                 <div class="large-years">
-                    <!-- Năm học 2023-2024 -->
+                    <!-- Năm học 2005-2006 -->
                     <div class="large-year" onclick="showStudents('2023-2024')">
                         <i class="fas fa-star year-icon"></i>
                         <div class="year-period">2023-2024</div>
                         <div class="year-label">Năm học hiện tại</div>
                     </div>
                     
-                    <!-- Năm học 2022-2023 -->
+                    <!-- Năm học 2006-2007 -->
                     <div class="large-year" onclick="showStudents('2022-2023')">
                         <i class="fas fa-trophy year-icon"></i>
                         <div class="year-period">2022-2023</div>
                         <div class="year-label">Năm học trước</div>
                     </div>
                     
-                    <!-- Năm học 2021-2022 -->
+                    <!-- Năm học 2007-2008 -->
                     <div class="large-year" onclick="showStudents('2021-2022')">
                         <i class="fas fa-award year-icon"></i>
                         <div class="year-period">2021-2022</div>
                         <div class="year-label">Năm học trước</div>
                     </div>
 
-                    <!-- Năm học 2020-2021 -->
+                    <!-- Năm học 2008-2009 -->
                     <div class="large-year" onclick="showStudents('2020-2021')">
                         <i class="fas fa-medal year-icon"></i>
                         <div class="year-period">2020-2021</div>
                         <div class="year-label">Năm học trước</div>
                     </div>
 
-                    <!-- Năm học 2019-2020 -->
+                    <!-- Năm học 2009-2010 -->
                     <div class="large-year" onclick="showStudents('2019-2020')">
                         <i class="fas fa-crown year-icon"></i>
                         <div class="year-period">2019-2020</div>
