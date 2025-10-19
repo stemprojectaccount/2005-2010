@@ -790,37 +790,37 @@
                 
                 <div class="large-years">
                     <!-- Năm học 2005-2006 -->
-                    <div class="large-year" onclick="showStudents('2023-2024')">
+                    <div class="large-year" onclick="showStudents('2005-2006')">
                         <i class="fas fa-star year-icon"></i>
-                        <div class="year-period">2023-2024</div>
+                        <div class="year-period">2005-2006</div>
                         <div class="year-label">Năm học hiện tại</div>
                     </div>
                     
                     <!-- Năm học 2006-2007 -->
-                    <div class="large-year" onclick="showStudents('2022-2023')">
+                    <div class="large-year" onclick="showStudents('2006-2007')">
                         <i class="fas fa-trophy year-icon"></i>
-                        <div class="year-period">2022-2023</div>
+                        <div class="year-period">2006-2007</div>
                         <div class="year-label">Năm học trước</div>
                     </div>
                     
                     <!-- Năm học 2007-2008 -->
-                    <div class="large-year" onclick="showStudents('2021-2022')">
+                    <div class="large-year" onclick="showStudents('2007-2008')">
                         <i class="fas fa-award year-icon"></i>
-                        <div class="year-period">2021-2022</div>
+                        <div class="year-period">2007-2008</div>
                         <div class="year-label">Năm học trước</div>
                     </div>
 
                     <!-- Năm học 2008-2009 -->
-                    <div class="large-year" onclick="showStudents('2020-2021')">
+                    <div class="large-year" onclick="showStudents('2008-2009')">
                         <i class="fas fa-medal year-icon"></i>
-                        <div class="year-period">2020-2021</div>
+                        <div class="year-period">2008-2009</div>
                         <div class="year-label">Năm học trước</div>
                     </div>
 
                     <!-- Năm học 2009-2010 -->
-                    <div class="large-year" onclick="showStudents('2019-2020')">
+                    <div class="large-year" onclick="showStudents('2009-2010')">
                         <i class="fas fa-crown year-icon"></i>
-                        <div class="year-period">2019-2020</div>
+                        <div class="year-period">2009-2010</div>
                         <div class="year-label">Năm học trước</div>
                     </div>
                 </div>
@@ -853,7 +853,7 @@
         // ===== DỮ LIỆU HỌC SINH MẪU =====
         // Bạn có thể thêm dữ liệu thực tế vào đây sau
         const studentsData = {
-            "2023-2024": [
+            "2005-2006": [
                 {
                     name: "NGUYỄN VĂN A",
                     class: "12A1",
@@ -869,7 +869,7 @@
                     score: "9.2"
                 }
             ],
-            "2022-2023": [
+            "2006-2007": [
                 {
                     name: "LÊ VĂN C",
                     class: "12A1",
@@ -885,7 +885,7 @@
                     score: "9.1"
                 }
             ],
-            "2021-2022": [
+            "2007-2008": [
                 {
                     name: "HOÀNG VĂN E",
                     class: "12A2",
@@ -901,7 +901,7 @@
                     score: "9.3"
                 }
             ],
-            "2020-2021": [
+            "2008-2009": [
                 {
                     name: "ĐỖ NGỌC TRÂM",
                     class: "9A",
@@ -1204,7 +1204,7 @@
                     score: ""
                 }
             ],
-            "2019-2020": [
+            "20092009-2010": [
                    {
                     name: "NGUYỄN VĂN MẪN",
                     class: "9A",
