@@ -854,51 +854,90 @@
         // Bạn có thể thêm dữ liệu thực tế vào đây sau
         const studentsData = {
             "2005-2006": [
-                {
-                    name: "NGUYỄN VĂN A",
-                    class: "12A1",
-                    achievement: "Huy chương Vàng Toán Quốc gia, Giải Nhất Tin học",
-                    teacher: "Cô Nguyễn Thị B",
-                    score: "9.5"
+                 {
+                    name: "NGUYỄN CÔNG ĐỊNH",
+                    class: "9A",
+                    achievement: "Giải Nhất Vật Lý cấp Huyện, Giải Ba Vật Lý cấp Tỉnh",
+                    score: "19"
                 },
                 {
-                    name: "TRẦN THỊ B",
-                    class: "12A2", 
-                    achievement: "Huy chương Bạc Vật lý, Giải Nhì Hóa học",
-                    teacher: "Thầy Phạm Văn C",
-                    score: "9.2"
+                    name: "PHẠM THỊ NGỌC MAI",
+                    class: "9A",
+                    achievement: "Giải Nhất Sinh Học cấp Huyện, Giải Nhì Sinh Học cấp Tỉnh",
+                    score: "19"
+                },
+                {
+                    name: "ĐỖ XUÂN TUẤN",
+                    class: "9A",
+                    achievement: "Giải Nhất Thể Dục cấp Huyện",
+                    teacher: "",
+                    score: ""
+                },
+                {
+                    name: "NGUYỄN THỊ PHƯƠNG ANH",
+                    class: "9B",
+                    achievement: "Giải Ba Thể Dục cấp Tỉnh",
+                    teacher: "",
+                    score: ""
+                },
+                {
+                    name: "LÊ THỊ HÀ",
+                    class: "7C",
+                    achievement: "Giải Nhất Thể Dục cấp Tỉnh",
+                    teacher: "",
+                    score: ""
                 }
             ],
             "2006-2007": [
                 {
-                    name: "LÊ VĂN C",
-                    class: "12A1",
-                    achievement: "Huy chương Vàng Olympic Toán, Giải Nhất Vật lý",
-                    teacher: "Cô Trần Thị D",
-                    score: "9.6"
+                    name: "NGUYỄN CÔNG ĐỊNH",
+                    class: "9A",
+                    achievement: "Giải Nhất Vật Lý cấp Huyện, Giải Ba Vật Lý cấp Tỉnh",
+                    score: "19"
                 },
                 {
-                    name: "PHẠM THỊ D",
-                    class: "12A3",
-                    achievement: "Huy chương Bạc Hóa học, Giải Ba Sinh học",
-                    teacher: "Thầy Nguyễn Văn E",
-                    score: "9.1"
+                    name: "PHẠM THỊ NGỌC MAI",
+                    class: "9A",
+                    achievement: "Giải Nhất Sinh Học cấp Huyện, Giải Nhì Sinh Học cấp Tỉnh",
+                    score: "19"
+                },
+                {
+                    name: "ĐỖ XUÂN TUẤN",
+                    class: "9A",
+                    achievement: "Giải Nhất Thể Dục cấp Huyện",
+                    teacher: "",
+                    score: ""
+                },
+                {
+                    name: "NGUYỄN THỊ PHƯƠNG ANH",
+                    class: "9B",
+                    achievement: "Giải Ba Thể Dục cấp Tỉnh",
+                    teacher: "",
+                    score: ""
+                },
+                {
+                    name: "LÊ THỊ HÀ",
+                    class: "7C",
+                    achievement: "Giải Nhất Thể Dục cấp Tỉnh",
+                    teacher: "",
+                    score: ""
                 }
             ],
             "2007-2008": [
                 {
-                    name: "HOÀNG VĂN E",
-                    class: "12A2",
-                    achievement: "Giải Nhất Quốc gia môn Toán, Huy chương Vàng Tin học",
-                    teacher: "Cô Lê Thị F",
-                    score: "9.7"
+                    name: "TRƯƠNG THÀNH CÔNG",
+                    class: "9A",
+                    achievement: "Giải ba cấp tỉnh môn toán ",
                 },
                 {
-                    name: "VŨ THỊ F",
-                    class: "12A1",
-                    achievement: "Huy chương Bạc Vật lý, Giải Nhì Hóa học",
-                    teacher: "Thầy Đặng Văn G",
-                    score: "9.3"
+                    name: "ĐỖ VĂN MẠNH",
+                    class: "9B",
+                    achievement: "giải ba vật lý cấp tỉnh",
+                },
+                {
+                    name: "NGUYỄN THỊ PHƯƠNG MAI",
+                    class: "9A",
+                    achievement: "giải ba Hóa học cấp tỉnh",
                 }
             ],
             "2008-2009": [
