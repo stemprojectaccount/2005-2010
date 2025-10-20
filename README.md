@@ -920,6 +920,13 @@
                     achievement: "Giải Nhất Thể Dục cấp Tỉnh",
                     teacher: "",
                     score: ""
+                },
+                 {
+                    name: "PHẠM THỊ NGỌC MAI",
+                    class: "9A",
+                    achievement: "Giải Nhì sinh học cấp Tỉnh",
+                    teacher: "",
+                    score: ""
                 }
             ],
             "2007-2008": [
