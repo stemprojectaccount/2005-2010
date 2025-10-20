@@ -852,34 +852,39 @@
                     name: "NGUYỄN CÔNG ĐỊNH",
                     class: "9A",
                     achievement: "Giải Nhất Vật Lý cấp Huyện, Giải Ba Vật Lý cấp Tỉnh",
-                    score: "19"
+                    score: "19",
+                    gender: "nam"
                 },
                 {
                     name: "PHẠM THỊ NGỌC MAI",
                     class: "9A",
                     achievement: "Giải Nhất Sinh Học cấp Huyện, Giải Nhì Sinh Học cấp Tỉnh",
-                    score: "19"
+                    score: "19",
+                    gender: "nữ"
                 },
                 {
                     name: "ĐỖ XUÂN TUẤN",
                     class: "9A",
                     achievement: "Giải Nhất Thể Dục cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "NGUYỄN THỊ PHƯƠNG ANH",
                     class: "9B",
                     achievement: "Giải Ba Thể Dục cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "LÊ THỊ HÀ",
                     class: "7C",
                     achievement: "Giải Nhất Thể Dục cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 }
             ],
             "2006-2007": [
@@ -887,41 +892,47 @@
                     name: "NGUYỄN CÔNG ĐỊNH",
                     class: "9A",
                     achievement: "Giải Nhất Vật Lý cấp Huyện, Giải Ba Vật Lý cấp Tỉnh",
-                    score: "19"
+                    score: "19",
+                    gender: "nam"
                 },
                 {
                     name: "PHẠM THỊ NGỌC MAI",
                     class: "9A",
                     achievement: "Giải Nhất Sinh Học cấp Huyện, Giải Nhì Sinh Học cấp Tỉnh",
-                    score: "19"
+                    score: "19",
+                    gender: "nữ"
                 },
                 {
                     name: "ĐỖ XUÂN TUẤN",
                     class: "9A",
                     achievement: "Giải Nhất Thể Dục cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "NGUYỄN THỊ PHƯƠNG ANH",
                     class: "9B",
                     achievement: "Giải Ba Thể Dục cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "LÊ THỊ HÀ",
                     class: "7C",
                     achievement: "Giải Nhất Thể Dục cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                  {
                     name: "PHẠM THỊ NGỌC MAI",
                     class: "9A",
                     achievement: "Giải Nhì sinh học cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 }
             ],
             "2007-2008": [
@@ -929,16 +940,19 @@
                     name: "TRƯƠNG THÀNH CÔNG",
                     class: "9A",
                     achievement: "Giải ba cấp tỉnh môn toán ",
+                    gender: "nam"
                 },
                 {
                     name: "ĐỖ VĂN MẠNH",
                     class: "9B",
                     achievement: "giải ba vật lý cấp tỉnh",
+                    gender: "nam"
                 },
                 {
                     name: "NGUYỄN THỊ PHƯƠNG MAI",
                     class: "9A",
                     achievement: "giải ba Hóa học cấp tỉnh",
+                    gender: "nữ"
                 }
             ],
             "2008-2009": [
@@ -947,301 +961,344 @@
                     class: "9A",
                     achievement: "Giải Nhất CASSIO cấp Huyện",
                     teacher: "LÊ THỊ THU NGA",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "ĐỖ THỊ TRANG DUYÊN",
                     class: "9A",
                     achievement: "Giải Nhất Hóa Học cấp Huyện",
                     teacher: "ĐINH THỊ THO",
-                    score: "18.5"
+                    score: "18.5",
+                    gender: "nữ"
                 },
                 {
                     name: "HỒ VIỆT TÍN",
                     class: "9C",
                     achievement: "Giải Nhất Hóa Học cấp Huyện",
                     teacher: "ĐINH THỊ THO",
-                    score: "18"
+                    score: "18",
+                    gender: "nam"
                 },
                 {
                     name: "PHẠM MẠNH HÙNG",
                     class: "9B",
                     achievement: "Cúp Vô Địch Bóng Rổ Nam cấp Tỉnh, Thành tích Điền Kinh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "VŨ QUANG SƠN",
                     class: "9B",
                     achievement: "Cúp Vô Địch Bóng Rổ Nam cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "HỒ QUÝ LY",
                     class: "9D",
                     achievement: "Cúp Vô Địch Bóng Rổ Nam cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "HỒ QUANG TÂM",
                     class: "9D",
                     achievement: "Giải Nhì Bóng Rổ Nam cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "ĐÀO XUÂN LAM",
                     class: "9D",
                     achievement: "Cúp Vô Địch Bóng Rổ Nam cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "TRẦN THÁI HỌC",
                     class: "9D",
                     achievement: "Giải Nhì Bóng Rổ Nam cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "NGUYỄN NGỌC QUÝ",
                     class: "8A",
                     achievement: "Cúp Vô Địch Bóng Rổ Nam cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "LƯƠNG THANH HIẾU",
                     class: "9A",
                     achievement: "Cúp Vô Địch Bóng Rổ Nam cấp Tỉnh, Thành tích Điền Kinh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "NGUYỄN NGỌC ANH",
                     class: "9A",
                     achievement: "Cúp Vô Địch Bóng Rổ Nam cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "NGÔ QUỐC HUY",
                     class: "9D",
                     achievement: "Giải Nhì Bóng Rổ Nam cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "TRẦN TẤN THỊNH",
                     class: "8C",
                     achievement: "Cúp Vô Địch Bóng Rổ Nam cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "NGUYỄN CÔNG TRÚC",
                     class: "9A",
                     achievement: "Giải Nhì Bóng Rổ Nam cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "PHẠM VĂN THẮNG",
                     class: "8B",
                     achievement: "Cúp Vô Địch Bóng Rổ Nam cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "PHẠM QUỐC HOÀNG",
                     class: "8C",
                     achievement: "Giải Nhì Bóng Rổ Nam cấp Tỉnh, Thành tích Điền Kinh",
                     teacher: "Trần Công Vinh",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "HỒ LÊ XUÂN QUYỀN",
                     class: "9A",
                     achievement: "Giải Nhì Bóng Rổ Nam cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "PHẠM THỊ THƯƠNG",
                     class: "9D",
                     achievement: "Giải Nhì Bóng Rổ Nam cấp Tỉnh, Thành tích Bóng rổ",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "TRƯƠNG QUANG NGỌC",
                     class: "9A",
                     achievement: "Giải Nhì Bóng Bàn cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "NGUYỄN SƠN TRƯỜNG",
                     class: "9A",
                     achievement: "Giải Nhì - Ba Bóng Bàn cấp Tỉnh, Thành tích Bóng bàn cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "LÊ TRƯỜNG THỌ",
                     class: "8C",
                     achievement: "Giải Nhì - Ba Bóng Bàn cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "LÊ THỊ HÀ",
                     class: "9C",
                     achievement: "Giải Ba Bóng Bàn cấp Tỉnh, Thành tích Bóng bàn cấp Huyện",
                     teacher: "Lê Viết Tương",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "TẠ NGỌC THẾ",
                     class: "8D",
                     achievement: "Giải Ba Bóng Bàn cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "ĐỖ NGỌC TRANG NHUNG",
                     class: "7A",
                     achievement: "Giải Nhì - Ba Bóng Bàn cấp Tỉnh, Giải Nhất Bóng Bàn cấp Huyện",
                     teacher: "Trần Công Vinh",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "NGUYỄN THỊ THANH XUÂN",
                     class: "7A",
                     achievement: "Giải Nhì - Ba Bóng Bàn cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "NGUYỄN HUỆ NHẠN",
                     class: "9C",
                     achievement: "Giải Nhì - Ba Bóng Bàn cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "PHẠM THÁI THÚY THÚY",
                     class: "9C",
                     achievement: "2 Giải Nhất Bóng Bàn cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "PHẠM THỊ THẢO NGUYÊN",
                     class: "9C",
                     achievement: "Giải Nhất - Nhì Bóng Bàn cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "LÊ THỊ MỸ VÂN",
                     class: "9D",
                     achievement: "Thành tích Bắn nỏ",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "ĐỖ ĐÌNH ĐỨC",
                     class: "9D",
                     achievement: "Thành tích Bắn nỏ",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "NGUYỄN THỊ HOÀI VI",
                     class: "9A",
                     achievement: "Thành tích Bóng rổ",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "VƯƠNG THỊ PHƯƠNG DUYÊN",
                     class: "9A",
                     achievement: "Thành tích Bóng rổ",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "HỒ THỊ BẢO MI",
                     class: "9A",
                     achievement: "Thành tích Bóng rổ",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "LÊ THỊ TÂN LỢI",
                     class: "9A",
                     achievement: "Thành tích Bóng rổ",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "LÊ THỊ LINH NGUYÊN",
                     class: "9A",
                     achievement: "Thành tích Bóng rổ",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "NGUYỄN THỊ THU HƯƠNG",
                     class: "9D",
                     achievement: "Thành tích Bóng rổ",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "NGUYỄN THỊ THU PHƯƠNG",
                     class: "9D",
                     achievement: "Thành tích Bóng rổ",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "NGUYỄN THỊ HẠNH",
                     class: "9B",
                     achievement: "Thành tích Bóng rổ",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "ĐOÀN THỊ THẢO",
                     class: "9B",
                     achievement: "Thành tích Bóng rổ",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "TRẦN THÙY TRANG",
                     class: "9B",
                     achievement: "Thành tích Bóng rổ",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "NGUYỄN THỊ NGỌC TRÂM",
                     class: "9B",
                     achievement: "Thành tích Bóng rổ",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "NGUYỄN LÊ TUYÊN",
                     class: "8C",
                     achievement: "Thành tích Điền Kinh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 }
             ],
             "2009-2010": [
@@ -1250,392 +1307,448 @@
                     class: "9A",
                     achievement: "Giải Nhất Vật Lý cấp Huyện",
                     teacher: "NGUYỄN THỊ NGÂN",
-                    score: "18.5"
+                    score: "18.5",
+                    gender: "nam"
                 },
                 {
                     name: "ĐẶNG HOÀNG LÂM",
                     class: "9A",
                     achievement: "Giải Nhất Sinh Học cấp Huyện, Giải Nhì Sinh Học cấp Tỉnh",
                     teacher: "BÙI THỊ TUYẾT",
-                    score: "18"
+                    score: "18",
+                    gender: "nam"
                 },
                 {
                     name: "NGUYỄN THU HÀ",
                     class: "9A",
                     achievement: "Giải Nhất Lịch Sử cấp Huyện",
                     teacher: "ĐINH LƯƠNG BÀNH",
-                    score: "18"
+                    score: "18",
+                    gender: "nữ"
                 },
                 {
                     name: "CHU TRƯỜNG ĐẠT",
                     class: "9A",
                     achievement: "Giải Ba Toán cấp Tỉnh",
                     teacher: "LÊ THỊ THU NGA",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "VŨ NGỌC THỦY TIÊN",
                     class: "9A",
                     achievement: "Giải Nhất CASSIO cấp Tỉnh",
                     teacher: "LÊ THỊ THU NGA",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "NGUYỄN MINH LƯƠNG",
                     class: "9A",
                     achievement: "Giải Nhì Vật Lí cấp Tỉnh",
                     teacher: "NGUYỄN THỊ NGÂN",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "TRẦN DUY HIỀN",
                     class: "9A",
                     achievement: "Giải Nhì Vật Lí cấp Tỉnh",
                     teacher: "NGUYỄN THỊ NGÂN",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "TRẦN TẤN THỊNH",
                     class: "9C",
                     achievement: "Giải Nhất Bóng Rổ Nam cấp Huyện, Huy chương Bạc Bóng Rổ Nam cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "THÁI VIẾT NÔ VA",
                     class: "9C",
                     achievement: "Giải Nhất Bóng Rổ Nam cấp Huyện, Huy chương Bạc Bóng Rổ Nam cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "PHẠM QUỐC HOÀNG",
                     class: "9C",
                     achievement: "Giải Nhất Bóng Rổ Nam cấp Huyện, Huy chương Bạc Bóng Rổ Nam cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "VŨ NGỌC SƯ HUYNH",
                     class: "8A",
                     achievement: "Giải Nhất Bóng Rổ Nam cấp Huyện, Huy chương Bạc Bóng Rổ Nam cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "NGUYỄN MẠNH DŨNG",
                     class: "7A",
                     achievement: "Giải Nhất Bóng Rổ Nam cấp Huyện, Huy chương Bạc Bóng Rổ Nam cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "NGUYỄN NGỌC QUÝ",
                     class: "9A",
                     achievement: "Giải Nhất Bóng Rổ Nam cấp Huyện, Huy chương Bạc Bóng Rổ Nam cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "VÕ THANH PHỤNG",
                     class: "9C",
                     achievement: "Giải Nhất Bóng Rổ Nam cấp Huyện, Huy chương Bạc Bóng Rổ Nam cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "NGUYỄN BÁ RÔN",
                     class: "9C",
                     achievement: "Giải Nhất Bóng Rổ Nam cấp Huyện, Huy chương Bạc Bóng Rổ Nam cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "TẠ QUANG DŨNG",
                     class: "9C",
                     achievement: "Giải Nhất Bóng Rổ Nam cấp Huyện, Huy chương Bạc Bóng Rổ Nam cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "VŨ XUÂN TRƯỜNG",
                     class: "7A",
                     achievement: "Giải Nhất Bóng Rổ Nam cấp Huyện, Huy chương Bạc Bóng Rổ Nam cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "NGUYỄN THỊ TIỂU MY",
                     class: "9C",
                     achievement: "Giải Nhất Bóng Rổ Nữ cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "VŨ THỊ LAN ANH",
                     class: "9C",
                     achievement: "Giải Nhất Bóng Rổ Nữ cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "PHẠM BÍCH PHƯỢNG",
                     class: "9C",
                     achievement: "Giải Nhất Bóng Rổ Nữ cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "BÙI THỊ THU TRANG",
                     class: "9C",
                     achievement: "Giải Nhất Bóng Rổ Nữ cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "LÊ HUỲNH DUYÊN",
                     class: "8B",
                     achievement: "Giải Nhất Bóng Rổ Nữ cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "PHẠM THỊ LINH PHƯƠNG",
                     class: "8B",
                     achievement: "Giải Nhất Bóng Rổ Nữ cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "VŨ THỊ THU HẠNH",
                     class: "8B",
                     achievement: "Giải Nhất Bóng Rổ Nữ cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "BÙI THỊ THÚY VÂN",
                     class: "8B",
                     achievement: "Giải Nhất Bóng Rổ Nữ cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "HOÀNG THỊ VÂN ANH",
                     class: "8B",
                     achievement: "Giải Nhất Bóng Rổ Nữ cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "NGUYỄN THỊ HOÀI NHI",
                     class: "8A",
                     achievement: "Giải Nhất Bóng Rổ Nữ cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "NGUYỄN THỊ NGỌC THU",
                     class: "8C",
                     achievement: "Giải Nhất Bóng Rổ Nữ cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "NGUYỄN ĐĂNG HẢI",
                     class: "9C",
                     achievement: "Giải Nhì Bóng Ném Nam cấp Huyện, Huy chương Vàng Bóng Ném Nam cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "PHẠM CHÍ TUÂN",
                     class: "9D",
                     achievement: "Giải Nhì Bóng Ném Nam cấp Huyện, Huy chương Vàng Bóng Ném Nam cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "TRẦN QUANG NGUYÊN",
                     class: "9C",
                     achievement: "Giải Nhì Bóng Ném Nam cấp Huyện, Huy chương Vàng Bóng Ném Nam cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "PHẠM HỮU QUYẾT",
                     class: "9B",
                     achievement: "Giải Nhì Bóng Ném Nam cấp Huyện, Huy chương Vàng Bóng Ném Nam cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "NGUYỄN TRỌNG THƯƠNG",
                     class: "9B",
                     achievement: "Giải Nhì Bóng Ném Nam cấp Huyện, Huy chương Vàng Bóng Ném Nam cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "ĐÀO NGỌC HOÀNG",
                     class: "9C",
                     achievement: "Giải Nhì Bóng Ném Nam cấp Huyện, Huy chương Vàng Bóng Ném Nam cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "PHÙNG HOÀNG TRUNG",
                     class: "9D",
                     achievement: "Giải Nhì Bóng Ném Nam cấp Huyện, Huy chương Vàng Bóng Ném Nam cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "LÊ HẢI NAM",
                     class: "9C",
                     achievement: "Giải Nhì Bóng Ném Nam cấp Huyện, Huy chương Vàng Bóng Ném Nam cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "BÙI THỊ THẢO NHƯ",
                     class: "8A",
                     achievement: "Giải Nhất Aerobic cấp Huyện, 2 Huy chương Vàng Aerobic cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "VŨ THỊ THANH TÂM",
                     class: "8A",
                     achievement: "Giải Nhất Aerobic cấp Huyện, 2 Huy chương Vàng Aerobic cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "PHẠM THỊ BÍCH NGỌC",
                     class: "8A",
                     achievement: "Giải Nhất Aerobic cấp Huyện, 2 Huy chương Vàng Aerobic cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "PHAN THỊ ÁNH TUYẾT",
                     class: "8A",
                     achievement: "Giải Nhất Aerobic cấp Huyện, 2 Huy chương Vàng Aerobic cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "LÊ THỊ TRÚC KHƯƠNG",
                     class: "8B",
                     achievement: "Giải Nhất Aerobic cấp Huyện, 2 Huy chương Vàng Aerobic cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "NGUYỄN THỊ NGỌC ÁNH",
                     class: "8C",
                     achievement: "Giải Nhất Aerobic cấp Huyện, 2 Huy chương Vàng Aerobic cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "TRẦN THỊ THÙY TRÂM",
                     class: "8C",
                     achievement: "Giải Nhất Aerobic cấp Huyện, 2 Huy chương Vàng Aerobic cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "LÊ THỊ THƯƠNG",
                     class: "8D",
                     achievement: "Giải Nhất Aerobic cấp Huyện, 2 Huy chương Vàng Aerobic cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "LƯƠNG THỊ PHƯƠNG HIẾU",
                     class: "6A",
                     achievement: "Giải Nhất Aerobic cấp Huyện, 2 Huy chương Vàng Aerobic cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "NGUYỄN DƯƠNG ANH TUẤN",
                     class: "9D",
                     achievement: "Giải Nhất Bóng Đá cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "NGUYỄN THỐNG NHẤT",
                     class: "9D",
                     achievement: "Giải Nhất Bóng Đá cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "LÊ VĂN THÀNH",
                     class: "9D",
                     achievement: "Giải Nhất Bóng Đá cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "LÊ TRỌNG ĐỨC",
                     class: "9D",
                     achievement: "Giải Nhất Bóng Đá cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "NGUYỄN LÊ TUYÊN",
                     class: "9C",
                     achievement: "Giải Nhất Bóng Đá cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "PHẠM BÁ KHẢI",
                     class: "8A",
                     achievement: "Giải Nhất Bóng Đá cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "NGUYỄN TIẾN NGUYÊN",
                     class: "8A",
                     achievement: "Giải Nhất Bóng Đá cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "NGUYỄN KIẾN THỨC",
                     class: "9C",
                     achievement: "Giải Nhất Bóng Đá cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "NGUYỄN HỒNG QUANG",
                     class: "9D",
                     achievement: "Giải Nhất Bóng Đá cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "NGUYỄN THỊ XUÂN",
                     class: "8A",
                     achievement: "Giải Nhất Bóng Bàn cấp Huyện, 1 Huy chương Đồng Bóng Bàn cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "LÊ THỊ KIM ANH",
                     class: "7A",
                     achievement: "Giải Nhất Nghi thức Đội cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 } 
             ]
         };
@@ -1662,16 +1775,17 @@
                 const card = document.createElement('div');
                 card.classList.add('student-card');
                 
-                // Tạo hình ảnh ngẫu nhiên dựa trên index
-                const gender = index % 2 === 0 ? 'men' : 'women';
-                const imgIndex = (index % 50) + 1;
+                // Xác định ảnh dựa trên giới tính
+                const imageUrl = student.gender === 'nam' 
+                    ? 'https://i.postimg.cc/2Sns9JkF/Chat-GPT-Image-Oct-20-2025-08-20-11-PM.png'
+                    : 'https://i.postimg.cc/fRYGqFzc/Chat-GPT-Image-Oct-20-2025-08-20-23-PM.png';
                 
                 // Lấy thành tích đầu tiên để hiển thị badge
                 const firstAchievement = student.achievement.split(',')[0];
                 
                 card.innerHTML = `
                     <i class="fas fa-user-graduate student-icon"></i>
-                    <img src="https://randomuser.me/api/portraits/${gender}/${imgIndex}.jpg" alt="${student.name}" class="student-image">
+                    <img src="${imageUrl}" alt="${student.name}" class="student-image">
                     <h3>${student.name}</h3>
                     <p><strong>Lớp:</strong> ${student.class}</p>
                     <div class="achievement-badge">${firstAchievement}</div>
@@ -1736,11 +1850,13 @@
             
             console.log("=== TRANG CHÍNH HỌC SINH XUẤT SẮC ===");
             console.log("Có 5 năm học để lựa chọn:");
-            console.log("- 2023-2024 (Năm học hiện tại)");
-            console.log("- 2022-2023");
-            console.log("- 2021-2022"); 
-            console.log("- 2020-2021");
-            console.log("- 2019-2020");
+            console.log("- 2005-2006");
+            console.log("- 2006-2007");
+            console.log("- 2007-2008"); 
+            console.log("- 2008-2009");
+            console.log("- 2009-2010");
             console.log("Mỗi năm học đều có nút QUAY LẠI TRANG CHÍNH");
         });
     </script>
+</body>
+</html>
