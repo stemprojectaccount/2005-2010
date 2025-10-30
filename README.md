@@ -890,6 +890,7 @@
                     </div>
                 </div>
             </div>
+
             
             <!-- Students Section (Hidden by default) -->
             <div class="students-section" id="studentsSection">
@@ -912,6 +913,16 @@
                 </div>
             </div>
         </div>
+                    
+                    <!-- Back to Honor Board Button -->
+            <div class="back-to-board-section">
+                <a href="https://stemprojectaccount.github.io/BANG-VINH-DANH/" class="back-to-board-button">
+                    <i class="fas fa-home button-icon"></i>
+                    <div class="button-text">QUAY LẠI TRANG BẢNG VINH DANH</div>
+                </a>
+            </div>
+        </div>
+    </div>
     </div>
         
     <script>
