@@ -799,7 +799,7 @@
                     <i class="fas fa-calendar-alt"></i>CHỌN NĂM HỌC
                 </h2>
                 
-                <div class="large-years">
+        <div class="large-years">
                     <!-- Năm học 2005-2006 -->
                     <div class="large-year" onclick="showStudents('2005-2006')">
                         <i class="fas fa-star year-icon"></i>
@@ -1773,6 +1773,7 @@
             ]
         };
 
+
         // ===== HÀM HIỂN THỊ DANH SÁCH HỌC SINH =====
         function showStudents(year) {
             // Ẩn phần chọn năm học
@@ -1790,6 +1791,17 @@
             studentsGrid.innerHTML = '';
             
             const students = studentsData[year] || [];
+            
+            if (students.length === 0) {
+                studentsGrid.innerHTML = `
+                    <div class="no-students-message">
+                        <i class="fas fa-info-circle" style="font-size: 4rem; margin-bottom: 20px; color: #FFD700;"></i>
+                        <h3 style="color: #fff; font-size: 1.8rem;">Chưa có dữ liệu học sinh cho năm học này</h3>
+                        <p style="color: #e0e0ff; font-size: 1.2rem;">Dữ liệu đang được cập nhật...</p>
+                    </div>
+                `;
+                return;
+            }
             
             students.forEach((student, index) => {
                 const card = document.createElement('div');
@@ -1869,11 +1881,11 @@
             
             console.log("=== TRANG CHÍNH HỌC SINH XUẤT SẮC ===");
             console.log("Có 5 năm học để lựa chọn:");
-            console.log("- 2005-2006");
-            console.log("- 2006-2007");
-            console.log("- 2007-2008"); 
-            console.log("- 2008-2009");
-            console.log("- 2009-2010");
+            console.log("- 2010-2011");
+            console.log("- 2011-2012");
+            console.log("- 2012-2013"); 
+            console.log("- 2013-2014");
+            console.log("- 2014-2015");
             console.log("Mỗi năm học đều có nút QUAY LẠI TRANG CHÍNH");
         });
     </script>
